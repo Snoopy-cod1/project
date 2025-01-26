@@ -1,0 +1,94 @@
+
+.h{
+    display: flex;
+    justify-content: flex-end;
+}
+.blue{
+    color: #6D98BA;
+
+}
+.sm{
+    width: 200px;
+}
+.bbl{
+    background-color: #6D98BA;
+    color: white;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+}
+.btn1{
+    background-color: #6D98BA;
+    color: #FFF;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+}
+.btn2{
+    background-color: #FFF;
+    color: #6D98BA;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+}
+.im{
+    width: 256px;
+    height: 512px;
+    border-radius: 16px;
+    background-color: #6D98BA;
+}
+.mai{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nice{
+    font-size: large;
+}
+.lets{
+    font-size: large;
+}
+big{
+    color: #6D98BA;
+    font-size: large;
+    text-decoration: none;
+}
+header, main{
+    background-color: bisque;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 512px;
+    text-align: center;
+}
+footer{
+    background-color: #9AADBF;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+}
+.love{
+    color: rgb(207, 8, 8);
+}
+main{
+    display: flex;
+    justify-content: center;
+    height: 512px;
+}
+button{
+    margin: 24px;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+.g{
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,100 @@
+main {
+	width: 600px;
+	margin: 1em auto;
+	border-radius: 1em;
+	padding: 1em;
+    background-color: #9EC5AB;
+}
+
+.card {
+	border-radius: 1em;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+header{
+    padding: 1em;
+}
+h1{
+    padding: 1em;
+    font-weight: 900;
+}
+footer{
+    padding: 1em;
+    background-color: #9AADBF;
+    color: #DACDDF;
+    text-align: center;
+}
+.g{
+    background-color: #9AADBF;
+}
+h3{
+    color: #FFFFFF;
+}
+article{
+    background-color: #BBBAC6;
+}
+blockquote {
+    padding: 1em;
+    color: #FFFFFF;
+}
+p{
+    color: #FFFFFF;
+}
+body {
+    background-color: bisque;
+}
+img{
+    text-align: center;
+    width: 570px;
+}
+header, main{
+    background-color: bisque;
+}
+
+.h{
+    display: flex;
+    justify-content: flex-end;
+}
+.sm{
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
+.love{
+    color: rgb(207, 8, 8);
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+.pink{
+    color: #2E5EAA;
+    font-weight: 900;
+}
+p{
+    background-color: #DABECA;
+    padding: 32px;
+    color: #000;
+    font-weight: 800;
+    border-radius: 8px;
+}
+.l{
+    width: 32%;
+    margin: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    color: #000;
+    background-color: #DABECA;
+    text-align: center;
+}
+.lang{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    margin: auto;
+    justify-content: center;
+}
